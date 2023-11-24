@@ -12,7 +12,7 @@ readme
   
    <a href="https://www.codewars.com/users/proydusvit" target="_blank"><img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
         <a href="https://www.instagram.com/_proidysvit/" target="_blank"><img alt="Inst" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/vladyslavshestavetskyi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/vladyslavshestavetskyi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <h3 align="center">My Skill Stack</h3>
