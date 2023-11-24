@@ -75,7 +75,7 @@ readme
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180520043-f54ad385-3d75-441a-95d3-ecd5b0cc548d.png" width="930" title="DMV Test Prep">
+<a href="https://ibb.co/rHfCfJm"><img src="https://i.ibb.co/yqBwBJX/2023-11-24-181344.png" alt="2023-11-24-181344" border="0"></a>
 
 </p>
 
