@@ -58,6 +58,7 @@ readme
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
 
@@ -65,7 +66,7 @@ readme
 <p align="left"> <a href="https://github.com/proydusvit/CAKENPAKEN.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
-<p align="left"> <a href="https://cakenpaken-6n28.vercel.app/uk" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+<p align="left"> <a href="https://cakenpaken-6n28.vercel.app/uk" download> Link to the site</a>
 </p>
 
 * DMV Test Prep - it's cross-platform mobile application build in Flutter;
