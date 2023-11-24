@@ -1,5 +1,6 @@
 readme
 ### Hi there, I'm Vlad Shestavetskyi 👋
+<h2 align="center">I'm Front-end Developer</h2>
 
 
 - 🔭 I’m currently working on **improving my knowledge**...
@@ -7,8 +8,13 @@ readme
 - 👯 I’m looking to collaborate on **other developers**...
 - 📫 How to reach me: vladislavshsh@gmail.com
 
-***My stack and tools***
+<p align="center">
+    <a href="https://www.linkedin.com/in/vladyslavshestavetskyi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+</p>
 
+<h3 align="center">My Skill Stack</h3>
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
