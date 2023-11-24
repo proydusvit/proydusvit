@@ -1,6 +1,6 @@
 readme
 ### Hi there, I'm Vlad Shestavetskyi 👋
-<h2 align="center">I'm Front-end Developer</h2>
+<h2 align="center">I'm Full-Stack Developer</h2>
 
 
 - 🔭 I’m currently working on **improving my knowledge**...
