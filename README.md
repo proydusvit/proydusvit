@@ -68,6 +68,13 @@ readme
 
 <p align="left"> <a href="https://cakenpaken-6n28.vercel.app/uk" download> Link to the site</a>
 </p>
+<h4>Technologies </h4>
+
+<p>has two versions </p>
+
+1. Next.js, Sass
+2.  + Strapi, Сloudinary
+
 
 * DMV Test Prep - it's cross-platform mobile application build in Flutter;
 * As s sole developer I fully designed and implemented front-end and back-end solutions;
