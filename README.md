@@ -75,7 +75,7 @@ readme
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<a href="https://ibb.co/rHfCfJm"><img src="https://i.ibb.co/yqBwBJX/2023-11-24-181344.png" alt="2023-11-24-181344" border="0"></a>
+<img src="https://i.ibb.co/yqBwBJX/2023-11-24-181344.png" alt="2023-11-24-181344" border="0">
 
 </p>
 
