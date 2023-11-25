@@ -98,7 +98,7 @@ readme
 <p align="left"> <a href="https://github.com/proydusvit/RickAndMorty_Next.js.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
-<p align="left"> <a href="rick-and-morty-next-js-tau.vercel.app
+<p align="left"> <a href="https://rick-and-morty-next-js-tau.vercel.app/
 " download> Link to the site</a>
 </p>
 
