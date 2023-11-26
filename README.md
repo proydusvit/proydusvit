@@ -120,3 +120,38 @@
 
 </p>
 
+<h2>Petly</h2>
+
+<h3>Team educational project</h3>
+
+<p>Frontend</p>
+<p align="left"> <a href="https://github.com/MaximKucheriaviy/pets-team-4.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+<p>Backend</p>
+<p align="left"> <a href="https://github.com/MaximKucheriaviy/pets-server-team4.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+
+<p align="left"> <a href="https://quiet-moonbeam-dd0d59.netlify.app/" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+React, Styled-components, Redux, Node.js, Express.js, MongoDb
+
+<h4>ABOUT THE PROJECT </h4>
+
+* This project is to find a pet
+* Implemented Auth
+* Search and filter by category
+* You can add your pet after authorization
+* Have a night mode
+  
+
+
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1700995140/yrcer3p6qtaekzjex87b.png" alt="2023-11-24-181344" border="0">
+
+</p>
+
