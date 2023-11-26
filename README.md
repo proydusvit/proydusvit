@@ -112,6 +112,11 @@ readme
 * Implemented search
 * filtering by various categories is implemented
 * Realized pagination
+  
 
 
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1700992702/q1oowv3euhgs8ogshev1.png" alt="2023-11-24-181344" border="0">
+
+</p>
 
