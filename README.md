@@ -62,6 +62,33 @@
 
 <h1>My Projects </h1>
 
+<h2>Simple it news</h2>
+
+
+<p align="left"> <a href="[https://cakenpaken-6n28.vercel.app/uk](https://www.simpleitnews.tech/)" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+
+1 Next.js, Tailwindcss
+
+
+
+<h4>ABOUT THE PROJECT </h4>
+
+* Projects with news in the field of IT
+* SEO optimization in Next.js
+* ADAPTIVE LAYOUT
+
+
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1703252879/q7jouo94bjb2k9lapcvb.png" alt="2023-11-24-181344" border="0">
+
+</p>
+
+
+
 <h2> CakenPaken </h2>
 <h3>THE PROJECT IS NOT YET COMPLETELY IMPLEMENTED !</h3>
 <p align="left"> <a href="https://github.com/proydusvit/CAKENPAKEN.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
