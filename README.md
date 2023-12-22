@@ -71,7 +71,7 @@
 <h4>Technologies </h4>
 
 
-1 Next.js, Tailwindcss
+Next.js, Tailwindcss, GraphQL
 
 
 
