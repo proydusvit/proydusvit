@@ -65,7 +65,7 @@
 <h2>Simple it news</h2>
 
 
-<p align="left"> <a href="[https://cakenpaken-6n28.vercel.app/uk](https://www.simpleitnews.tech/)" download> Link to the site</a>
+<p align="left"> <a href="https://www.simpleitnews.tech/" download> Link to the site</a>
 </p>
 
 <h4>Technologies </h4>
