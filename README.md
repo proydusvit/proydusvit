@@ -182,3 +182,34 @@ React, Styled-components, Redux, Node.js, Express.js, MongoDb
 
 </p>
 
+
+<h2>Phonebooky</h2>
+
+<h3>React educational project</h3>
+
+<p>Frontend</p>
+<p align="left"> <a href="https://github.com/proydusvit/goit-react-hw-08-phonebook.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+
+
+<p align="left"> <a href="https://proydusvit.github.io/goit-react-hw-08-phonebook/" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+React, Styled-components, Redux
+
+<h4>ABOUT THE PROJECT </h4>
+
+* project about your phone book
+* Implemented Auth
+* Search and filter
+
+  
+
+
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704980838/ryvqtgpw2kw0ypm1vcdn.png" alt="2023-11-24-181344" border="0">
+
+</p>
