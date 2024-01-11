@@ -237,3 +237,24 @@ React,Css
 
 </p>
 
+<h2>React-Native education Project</h2>
+
+
+
+
+<p align="left"> <a href="https://github.com/proydusvit/ReactNative_HW.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+
+
+
+<h4>Technologies </h4>
+
+React-Native, Firebase, Redux
+
+
+
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704982789/yninufwyzxhm7zzs0euh.jpg" alt="2023-11-24-181344" border="0">
+
+</p>
