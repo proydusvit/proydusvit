@@ -87,6 +87,50 @@ Next.js, Tailwindcss, GraphQL
 
 </p>
 
+<h2>Конвертер валют</h2>
+
+
+
+<p>Frontend</p>
+<p align="left"> <a href="https://github.com/proydusvit/currency-converter.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+
+
+<p align="left"> <a href="https://currency-currency-converter.vercel.app/" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+React,Css
+
+
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704981151/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2024-01-11_155220_iyvec6.png" alt="2023-11-24-181344" border="0">
+
+</p>
+
+<h2>React-Native education Project</h2>
+
+
+
+
+<p align="left"> <a href="https://github.com/proydusvit/ReactNative_HW.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+
+
+
+<h4>Technologies </h4>
+
+React-Native, Firebase, Redux
+
+
+
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704982789/yninufwyzxhm7zzs0euh.jpg" alt="2023-11-24-181344" border="0">
+
+</p>
 
 
 <h2> CakenPaken </h2>
@@ -183,7 +227,7 @@ React, Styled-components, Redux, Node.js, Express.js, MongoDb
 </p>
 
 
-<h2>Phonebooky</h2>
+<h2>Phonebook</h2>
 
 <h3>React educational project</h3>
 
@@ -214,47 +258,3 @@ React, Styled-components, Redux
 
 </p>
 
-<h2>Конвертер валют</h2>
-
-
-
-<p>Frontend</p>
-<p align="left"> <a href="https://github.com/proydusvit/currency-converter.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-
-
-<p align="left"> <a href="https://currency-currency-converter.vercel.app/" download> Link to the site</a>
-</p>
-
-<h4>Technologies </h4>
-
-React,Css
-
-
-<p align="center">
-<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704981151/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2024-01-11_155220_iyvec6.png" alt="2023-11-24-181344" border="0">
-
-</p>
-
-<h2>React-Native education Project</h2>
-
-
-
-
-<p align="left"> <a href="https://github.com/proydusvit/ReactNative_HW.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-
-
-
-<h4>Technologies </h4>
-
-React-Native, Firebase, Redux
-
-
-
-<p align="center">
-<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704982789/yninufwyzxhm7zzs0euh.jpg" alt="2023-11-24-181344" border="0">
-
-</p>
