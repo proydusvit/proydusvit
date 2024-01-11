@@ -233,7 +233,7 @@ React,Css
 
 
 <p align="center">
-<img src="https://asset.cloudinary.com/dg6fnnbpd/b0ca675b0fdd1bd69aecc270febe5dae" alt="2023-11-24-181344" border="0">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704981151/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2024-01-11_155220_iyvec6.png" alt="2023-11-24-181344" border="0">
 
 </p>
 
