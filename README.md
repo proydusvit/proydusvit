@@ -213,3 +213,27 @@ React, Styled-components, Redux
 <img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704980838/ryvqtgpw2kw0ypm1vcdn.png" alt="2023-11-24-181344" border="0">
 
 </p>
+
+<h2>Конвертер валют</h2>
+
+
+
+<p>Frontend</p>
+<p align="left"> <a href="https://github.com/proydusvit/currency-converter.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+
+
+<p align="left"> <a href="https://currency-currency-converter.vercel.app/" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+React,Css
+
+
+<p align="center">
+<img src="https://asset.cloudinary.com/dg6fnnbpd/b0ca675b0fdd1bd69aecc270febe5dae" alt="2023-11-24-181344" border="0">
+
+</p>
+
