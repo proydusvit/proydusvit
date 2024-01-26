@@ -62,6 +62,36 @@
 
 <h1>My Projects </h1>
 
+<h2> CakenPaken </h2>
+<h3>THE PROJECT IS NOT YET COMPLETELY IMPLEMENTED !</h3>
+<p align="left"> <a href="https://github.com/proydusvit/CAKENPAKEN.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+<p align="left"> <a href="https://www.cakenpaken.com/uk" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+<p>has two versions </p>
+
+1. Next.js, Sass
+2. Next.js, Sass, Strapi, Сloudinary
+
+
+<h4>ABOUT THE PROJECT </h4>
+
+* PROJECT FOR THE PRESENTATION OF THE FILM BY CAKENPAKEN
+* REALIZED PHOTO GALLERY
+* i18n LOCALIZATION
+* ADAPTIVE LAYOUT
+* WE ARE PLANNING TO BUILD A SHOP
+
+<p align="center">
+<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1700842849/psdrpmwwbllzzxwxwmxb.png" alt="2023-11-24-181344" border="0">
+
+</p>
+
+
 <h2>Simple it news</h2>
 
 
@@ -132,35 +162,6 @@ React-Native, Firebase, Redux
 
 </p>
 
-
-<h2> CakenPaken </h2>
-<h3>THE PROJECT IS NOT YET COMPLETELY IMPLEMENTED !</h3>
-<p align="left"> <a href="https://github.com/proydusvit/CAKENPAKEN.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-<p align="left"> <a href="https://cakenpaken-6n28.vercel.app/uk" download> Link to the site</a>
-</p>
-
-<h4>Technologies </h4>
-
-<p>has two versions </p>
-
-1. Next.js, Sass
-2. Next.js, Sass, Strapi, Сloudinary
-
-
-<h4>ABOUT THE PROJECT </h4>
-
-* PROJECT FOR THE PRESENTATION OF THE FILM BY CAKENPAKEN
-* REALIZED PHOTO GALLERY
-* i18n LOCALIZATION
-* ADAPTIVE LAYOUT
-* WE ARE PLANNING TO BUILD A SHOP
-
-<p align="center">
-<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1700842849/psdrpmwwbllzzxwxwmxb.png" alt="2023-11-24-181344" border="0">
-
-</p>
 
 
 
