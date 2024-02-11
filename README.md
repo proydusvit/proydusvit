@@ -64,7 +64,7 @@
 
 <h2> CakenPaken </h2>
 <h3>THE PROJECT IS NOT YET COMPLETELY IMPLEMENTED !</h3>
-<p align="left"> <a href="https://github.com/proydusvit/CAKENPAKEN.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+<p align="left"> <a href="https://github.com/proydusvit/CakenPaken2" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 <p align="left"> <a href="https://www.cakenpaken.com/uk" download> Link to the site</a>
