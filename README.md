@@ -92,53 +92,8 @@
 </p>
 
 
-<h2>Simple it news</h2>
 
 
-<p align="left"> <a href="https://www.simpleitnews.tech/" download> Link to the site</a>
-</p>
-
-<h4>Technologies </h4>
-
-
-Next.js, Tailwindcss, GraphQL
-
-
-
-<h4>ABOUT THE PROJECT </h4>
-
-* Projects with news in the field of IT
-* SEO optimization in Next.js
-* ADAPTIVE LAYOUT
-
-
-<p align="center">
-<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1703252879/q7jouo94bjb2k9lapcvb.png" alt="2023-11-24-181344" border="0">
-
-</p>
-
-<h2>Конвертер валют</h2>
-
-
-
-<p>Frontend</p>
-<p align="left"> <a href="https://github.com/proydusvit/currency-converter.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-
-
-<p align="left"> <a href="https://currency-currency-converter.vercel.app/" download> Link to the site</a>
-</p>
-
-<h4>Technologies </h4>
-
-React,Css
-
-
-<p align="center">
-<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704981151/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2024-01-11_155220_iyvec6.png" alt="2023-11-24-181344" border="0">
-
-</p>
 
 <h2>React-Native education Project</h2>
 
@@ -164,33 +119,6 @@ React-Native, Firebase, Redux
 
 
 
-
-<h2> Rick and Morty </h2>
-
-<p align="left"> <a href="https://github.com/proydusvit/RickAndMorty_Next.js.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-<p align="left"> <a href="https://rick-and-morty-next-js-tau.vercel.app/
-" download> Link to the site</a>
-</p>
-
-<h4>Technologies </h4>
-
- Next.js, TS, Sass 
-
-<h4>ABOUT THE PROJECT </h4>
-
-* The project was created with the help of  Rick and Morty Api
-* Implemented search
-* filtering by various categories is implemented
-* Realized pagination
-  
-
-
-<p align="center">
-<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1700992702/q1oowv3euhgs8ogshev1.png" alt="2023-11-24-181344" border="0">
-
-</p>
 
 <h2>Petly</h2>
 
@@ -228,34 +156,4 @@ React, Styled-components, Redux, Node.js, Express.js, MongoDb
 </p>
 
 
-<h2>Phonebook</h2>
-
-<h3>React educational project</h3>
-
-<p>Frontend</p>
-<p align="left"> <a href="https://github.com/proydusvit/goit-react-hw-08-phonebook.git" download> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-
-
-<p align="left"> <a href="https://proydusvit.github.io/goit-react-hw-08-phonebook/" download> Link to the site</a>
-</p>
-
-<h4>Technologies </h4>
-
-React, Styled-components, Redux
-
-<h4>ABOUT THE PROJECT </h4>
-
-* project about your phone book
-* Implemented Auth
-* Search and filter
-
-  
-
-
-<p align="center">
-<img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1704980838/ryvqtgpw2kw0ypm1vcdn.png" alt="2023-11-24-181344" border="0">
-
-</p>
 
