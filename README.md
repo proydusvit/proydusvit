@@ -62,6 +62,22 @@
 
 <h1>My Projects </h1>
 
+ <h2>Стендап для всієї родини - Фелікс Редька</h2>
+
+
+<p align="left"> <a href="https://www.redkafelix.com/" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+HTML, CSS
+
+
+
+<p align="center">
+<img src="https://res.cloudinary.com/dzrjsjo7z/image/upload/v1767634449/samples/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2026-01-05_193114_phgtok.png" alt="2023-11-24-181344" border="0">
+
+</p>
 <h2> CakenPaken </h2>
 
 
