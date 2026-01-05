@@ -87,6 +87,30 @@ Next.js, Sass
 
 </p>
 
+<h2> Ski & Sail Club </h2>
+
+
+<p align="left"> <a href="https://skisailclub.com/en" download> Link to the site</a>
+</p>
+
+<h4>Technologies </h4>
+
+Next.js, Tailwindcss , DatoCms
+
+
+<h4>ABOUT THE PROJECT </h4>
+
+* PROJECT FOR THE PRESENTATION OF THE FILM BY CAKENPAKEN
+* REALIZED PHOTO GALLERY
+* i18n LOCALIZATION
+* ADAPTIVE LAYOUT
+* SEO optimization 
+
+<p align="center">
+<img src="https://collection.cloudinary.com/dzrjsjo7z/e79b434ef5d49ffb82f49a6a60097193" alt="2023-11-24-181344" border="0">
+
+</p>
+
 
 
 
