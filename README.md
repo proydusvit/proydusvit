@@ -107,7 +107,7 @@ Next.js, Tailwindcss , DatoCms
 * SEO optimization 
 
 <p align="center">
-<img src="[https://collection.cloudinary.com/dzrjsjo7z/e79b434ef5d49ffb82f49a6a60097193](https://res.cloudinary.com/dzrjsjo7z/image/upload/v1767633287/samples/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2026-01-05_191337_kei1wd.png)" alt="2023-11-24-181344" border="0">
+<img src="https://res.cloudinary.com/dzrjsjo7z/image/upload/v1767633287/samples/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2026-01-05_191337_kei1wd.png" alt="2023-11-24-181344" border="0">
 
 </p>
 
