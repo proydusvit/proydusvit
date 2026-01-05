@@ -72,10 +72,8 @@
 
 <h4>Technologies </h4>
 
-<p>has two versions </p>
+Next.js, Sass
 
-1. Next.js, Sass
-2. Next.js, Sass, Strapi, Сloudinary
 
 
 <h4>ABOUT THE PROJECT </h4>
@@ -84,7 +82,7 @@
 * REALIZED PHOTO GALLERY
 * i18n LOCALIZATION
 * ADAPTIVE LAYOUT
-* WE ARE PLANNING TO BUILD A SHOP
+* SEO optimization 
 
 <p align="center">
 <img src="https://res.cloudinary.com/dg6fnnbpd/image/upload/v1700842849/psdrpmwwbllzzxwxwmxb.png" alt="2023-11-24-181344" border="0">
